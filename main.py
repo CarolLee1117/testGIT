@@ -84,8 +84,7 @@ cb.pack(pady=10)
 
 
 # 行政區、鄉、鎮
-district_options = list()
-
+district_options = dict()
 
 
 
